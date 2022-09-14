@@ -16,6 +16,6 @@ int main(void)
 		_putchar(sh[x]);
 	}
 		_putchar('\n');
-	
+
 	return (0);
 }
